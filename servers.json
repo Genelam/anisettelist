@@ -111,7 +111,7 @@
       "kind": 2
     },
     {
-    "name": "private server",   //doesn't really matter unless you're sharing this server list with someone else
+    "name": "private server",
     "address": "https://anisette-v3-server-4g8f.onrender.com"
     }
   ],
